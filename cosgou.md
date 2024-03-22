@@ -7,5 +7,5 @@ cosgou|cos狗最新发布地址
 cosgou是一个[专业的美图资源分享嗅探平台]
 
 以下地址实时更新！
-*******
-https://cosgou.com/ （主力地址，可用）
+******
+*https://cosgou.com/ （主力地址，可用）
